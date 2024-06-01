@@ -1,2 +1,2 @@
 # Landing-page
-LevnaEdit pro The Ultimate photo editing app
+LevyaEditing pro The Ultimate photo editing app
